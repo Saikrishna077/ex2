@@ -1,0 +1,18 @@
+p {
+  color: brown;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+table {
+  color: blue;
+  background-color: bisque;
+}
+body {
+  background-color: pink;
+  background-image: url(nobita-doremon.png);
+  background-repeat: no-repeat;
+  background-size: 600px 600px;
+  background-position: bottom center;
+  width: 100%;
+  height: 100%;
+}
